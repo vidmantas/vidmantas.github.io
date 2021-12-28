@@ -1,0 +1,64 @@
+# Site setings
+name: 'Edge of Enginering Leadership'
+description: 'Vidmantas Kabošis blog about engineering leadership'
+meta_description: 'Engineering leadership, management, and all the topics about the human side of engineering teams'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.png'
+baseurl: 
+production_url: https://vidmantas.github.io
+# disqus: 'justgoodthemes'
+# mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+cover_image: bc_1.jpg
+# Add your GA Tracking Id
+ga_analytics: 
+
+
+# Author
+author:
+  name: 'Vidmantas Kabošis'
+  image: 'vidmantas.jpg'
+  greetings: 'Hi there!'
+  description: "It's nice to meet you - my name is Vidmantas Kabošis. I'm a Director of Engineering, curious about the human side of engineering leadership. Based in Vilnius, Lithuania."
+  bio: 'Half-human, half-rubyist. Director of Engineering. Remote work fan.'
+
+# Contact form setings
+email: vidmantas.k@gmail.com
+contact_page_description: ""
+thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
+
+# Social links
+twitter: 'vidmantas'
+github: 'vidmantas'
+instagram: 'vidmantas.kabosis'
+linkedin: 'vidmantask'
+
+# Navigation
+navigation:
+  - text: About
+    url: /about/
+#  - text: Style Guide
+#    url: /style-guide/
+  - text: Library
+    url: /library/
+
+# Required Plugins
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-tagsgenerator
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Permalinks
+permalink: /:title
+
+# Other
+markdown: kramdown
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
