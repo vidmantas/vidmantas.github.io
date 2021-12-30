@@ -1,6 +1,6 @@
 # Site setings
 name: 'Edge of Enginering Leadership'
-description: 'Vidmantas Kabošis blog about engineering leadership'
+description: "Vidmantas Kabošis' blog about engineering leadership"
 meta_description: 'Engineering leadership, management, and all the topics about the human side of engineering teams'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
@@ -10,8 +10,7 @@ production_url: https://vidmantas.github.io
 # mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 cover_image: bc_1.jpg
 # Add your GA Tracking Id
-ga_analytics: 
-
+ga_analytics: G-TY48P74TT5
 
 # Author
 author:
@@ -35,11 +34,11 @@ linkedin: 'vidmantask'
 # Navigation
 navigation:
   - text: About
-    url: /about/
+    url: /about
 #  - text: Style Guide
 #    url: /style-guide/
   - text: Library
-    url: /library/
+    url: /library
 
 # Required Plugins
 plugins_dir:
