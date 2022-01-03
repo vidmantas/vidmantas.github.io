@@ -27,6 +27,7 @@ Ah, so yes, you can undoubtedly wait if you see someone is already full. Just ke
 In practice, given I have something to share with someone on my team, I like and try to do the following:
 
 * Pull a person aside right after the event happened. This conversation always has to be **private**.
+* Inquire what led to the behavior in question. Why did something happen? If you have a blind spot, best to learn about it right away.
 * Make it quick, to the point, but explain not only _what_ but _what impact_ this had or might have.
 * Schedule or agree on a follow-up if the topic requires or discussion emerges that you don't have enough time for right away.
 * Pro-tip: share your _perception_ of the potential issue this way as well. Just make sure you include that fact into your explanation. E.g., "Hey, for me, it looks like this and that. I might be wrong, though, how do _you_ see this?"
