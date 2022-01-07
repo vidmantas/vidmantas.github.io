@@ -16,8 +16,9 @@ When you have more time, I'm confident the following reads are going to expand y
 * **Crucial Conversations: Tools for Talking When Stakes Are High** by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler ([Goodreads](https://www.goodreads.com/book/show/15014.Crucial_Conversations))
 * **The Culture Map: Breaking Through the Invisible Boundaries of Global Business** by Erin Meyer ([Goodreads](https://www.goodreads.com/book/show/22085568-the-culture-map))
 * **The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change** by Camille Fournier ([Goodreads](https://www.goodreads.com/book/show/33369254-the-manager-s-path))
+* **Management 3.0: Leading Agile Developers, Developing Agile Leaders** by Jurgen Appelo ([Goodreads](https://www.goodreads.com/book/show/10210821-management-3-0))
 
-_Last update: 2022-01-03_
+_Last update: 2022-01-07_
 
 <small>
   Photo by [Kaboompics.com](https://www.pexels.com/@kaboompics?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) / [Pexels](https://www.pexels.com/photo/book-chapter-six-5834/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
