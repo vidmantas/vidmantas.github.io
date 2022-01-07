@@ -40,9 +40,9 @@ If you're doing this right, an excellent test is to see if anybody on your team 
 
 There are a few situations I think it's just a bad idea to follow a frequent/immediate feedback way of working blindly.
 
-First, when the ship is burning. Just do not start pulling people aside if they did not do something perfectly. That's why the team and personal retrospective is meant for. However, don't stand and watch if you see the progress is already or about to be impaired. Instead, formulate your feedback as _suggestions_, e.g., "I think we could solve this faster, if you this and that." Then, go back and explain deeper only after that production server is up again and the team had a chance to decompress.
+First, when the ship is burning. Just do not start pulling people aside if they did not do something perfectly. That's what the team and personal retrospective is meant for. However, don't stand and watch if you see the progress is already or about to be impaired. Instead, formulate your feedback as _suggestions_, e.g., "I think we could solve this faster, if you this and that." Then, go back and explain deeper only after that production server is up again and the team had a chance to decompress.
 
-Second, when the person is simply unable to accept this feedback right now, and the input does not impact the team or other individuals. You can still mention you see things to improve, and you need to discuss them later. Another bucket of cold water didn't help anyone survive if they were already drowning in the ocean of personal struggles. Do not take this as a call for ignorance - other action to help is needed! That "help" is not minor feedback in such a situation.
+Second, when the person is simply unable to accept this feedback right now, and the input does not impact the team or other individuals. You can still mention you see things to improve, and you need to discuss them later. Another bucket of cold water didn't help anyone survive if they were already drowning in the ocean of personal struggles. Do not take this as a call for inaction - some _other_ action to help is needed! That "help" is not minor feedback in such a situation.
 
 ## If You Have to Serve It Cold
 
