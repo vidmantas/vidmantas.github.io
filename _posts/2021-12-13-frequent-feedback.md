@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Frequent Feedback"
-tags: [ Feedback ]
+tags: [ feedback ]
 featured_image_thumbnail: assets/images/posts/2021/frequent_feedback_thumbnail.jpg 
 featured_image: assets/images/posts/2021/frequent_feedback.jpg
 ---

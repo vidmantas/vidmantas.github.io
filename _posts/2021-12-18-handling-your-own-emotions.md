@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Handling Your Own Emotions"
-tags: [ Emotions ]
+tags: [ emotions ]
 featured_image_thumbnail: assets/images/posts/2021/handling_your_own_emotions_thumbnail.jpg 
 featured_image: assets/images/posts/2021/handling_your_own_emotions.jpg
 ---
@@ -32,6 +32,7 @@ Way too often, we're all eager just to move on and try to forget unpleasant even
 ## One of the Many
 
 It's normal sometimes to feel overwhelmed by emotions in the management role, especially if you're new to this job. But, you're not a loser, nor alone. With time and experience, this happens less and less often, and everyone finds their way to deal with those rare instances. You will do, too.
+
 <small>
 	Photo by [Sebastiaan Stam](https://www.pexels.com/@sebastiaan9977?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) / [Pexels](https://www.pexels.com/photo/silhouette-of-man-1480690/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 </small>

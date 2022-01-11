@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Let's Start!"
-tags: [ Intro ]
+tags: [ intro ]
 featured_image_thumbnail: assets/images/posts/2021/lets_start_thumbnail.jpg 
 featured_image: assets/images/posts/2021/lets_start.jpg
 ---
