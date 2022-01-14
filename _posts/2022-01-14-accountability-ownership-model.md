@@ -42,7 +42,7 @@ Suppose aliens land on the Earth tomorrow, and we're all busy sharing inspiratio
 
 So you get the idea - regardless of what's going on, is the team's structure, skillset, attitude, and overall organizational level ready to absorb and move on, or would it break down?
 
-As Andrew S. Grove wrote in his timeless classics "High Output Management": 
+As Andrew S. Grove wrote in his timeless classics ["High Output Management"](https://www.goodreads.com/book/show/324750.High_Output_Management): 
 
 > You need to try to do the impossible, to anticipate the unexpected.
 
