@@ -10,11 +10,11 @@ There are always at least _some_ meetings in the team's life. Daily, planning, s
 
 # What Is Retrospective?
 
-In case you're not sure, I love the definition of [ProductPlan](https://www.productplan.com/glossary/retrospective/):
+In case you're not sure what retrospective is, I love the definition of [ProductPlan](https://www.productplan.com/glossary/retrospective/):
 
 > A retrospective is a meeting held after a product ships to discuss what happened during the product development and release process, with the goal of improving things in the future based on those learnings and conversations.
 
-Substitute "after a product ships" to any cadence that is reasonable to your team, as long as it is repeatedly happening (and frequently enough), and you'll get the team's main superpower in check: continuous improvement.
+Substitute "after a product ships" to any cadence that is reasonable to your team, as long as it is repeatedly happening (and frequently enough), and you'll get the team's main superpower in check: **continuous improvement**. Whatever obstacles the team was facing, it will be brought up, discussed, and experimented on fixing it in the most suitable way possible. Even if it is just a teeny tiny "way of working" improvement, those accumulate over the years and make a remarkable impact on teamwork and efficiency.
 
 # My Team is Doing Good Already
 
@@ -28,9 +28,9 @@ Of course, getting retrospectives going the right way is not an easy feat. Many 
 
 # Manager's View
 
-Retrospective meetings are an absolute goldmine for managers. It gives so much insight and data points about the team and individuals it's difficult to decide where to start. 
+Retrospective meetings are an absolute goldmine for managers. It gives so much insight and data points about the team and individuals it's even difficult to decide where to start. 
 
-First, it's a fantastic thermometer what's the team's overall morale and engagement level. The facilitator is doing their best to get anything out, but everybody is silent about problems visible with a naked eye? Are some factions fighting with each other on any topic? You know privately engineers complain about some aspect of teamwork, but there are only crickets? It's a big red flag it's about time to roll up your sleeves and jump in.
+First, it's a fantastic thermometer what's the team's overall morale and engagement level. The facilitator is doing their best to get anything out, but everybody is silent about problems visible with a naked eye? Are some factions fighting with each other on any topic? You know that privately engineers complain about some aspect of teamwork, but there are only crickets on the retro? It's a big red flag it's about time to roll up your sleeves and jump in.
 
 Second, retro shows so much about individuals. Remember, since it's _a meeting_, people who are more on the extrovert side have an advantage. But that's exactly why strong facilitation is needed too - to ensure everyone is involved in their own preferred and safe way. At the end of the day, it is like a lighthouse showing if they _care_ about the teamwork. What are the topics they get frustrated about? Are they willing (and can) to dig deep enough to get to the root of the problem? Is there any conflict with another person on the team? Is there enough goodwill to make some settlements to agree on action items? Are they able and _willing_ to participate in a blameless discussion? Who are informal leaders in the team, and what influence do they exert on others?
 
