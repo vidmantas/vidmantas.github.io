@@ -26,7 +26,7 @@ As you see, there's absolutely no hint of "do you want to do X or Y." Again, tun
 
 # Am I Helping My Company Then?
 
-Guiding someone to a potentially "dangerous" situation where you're could realize there's no such a role in your company you could offer can sound counter-intuitive. But, contrary to such a first impression, it's the **best** thing you can do for your team your company, not even mentioning the engineer. How so?
+Guiding someone to a potentially "dangerous" situation where you could realize there's no such a role in your company you could offer can sound counter-intuitive. But, contrary to such a first impression, it's the **best** thing you can do for your team your company, not even mentioning the engineer. How so?
 
 Just imagine a disaster you could be walking into if a promotion happens under a false understanding of the role, wrong motivation, non-matching fit. You just turned a happy, motivated great performer who wants to grow into a confused, misguided, not-what-I-wanted 100% underperformer.
 
