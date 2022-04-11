@@ -5,7 +5,7 @@ tags: [ career, coaching ]
 featured_image_thumbnail: assets/images/posts/2022/career_development_pt2_thumbnail.jpg 
 featured_image: assets/images/posts/2022/career_development_pt2.jpg
 ---
-In the [first part](/career-development-pt1), we covered the depths of helping individual contributors understand their professional and personal development paths. It's now (at least somewhat) clear, and it's time to kick off the whole "development" part. 
+In the [first part](/career-development-pt1), we covered the depths of helping individual contributors understand their professional and personal development paths. It's now (at least somewhat) clear, and it's time to kick off the whole "development" journey. 
 <!--more-->
 
 # SMART Career Plan
