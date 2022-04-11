@@ -48,6 +48,8 @@ High-five! We've got to the bottom of someone's career aspirations. Quite often,
 
 A few hints on how to drive this part of career development - soon!
 
+<small>[Part 2 about career development](/career-development-pt2)</small>
+
 <small>
 	Photo by [Igor Starkov](https://www.pexels.com/@igor-starkov-233202?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/photo-of-people-on-building-under-construction-1117452/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 </small>
