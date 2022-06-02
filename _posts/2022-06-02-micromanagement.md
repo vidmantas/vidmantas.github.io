@@ -11,7 +11,7 @@ Everybody hates micromanagement. Want to become the most dreaded leader in your 
 
 # Two Sides
 
-I noticed everybody has their unique threshold of what they call a "micromanagement ."Where we draw that line, it doesn't matter that much. What does is on **which side** of action you're participating. Are you feeling that **your manager** is doing it to you, or **you're the one** seeing no other path forward than closely looking over the shoulder? The good news is that understanding one direction helps the other, so let's zoom in.
+I noticed everybody has their unique threshold of what they call a "micromanagement." Where we draw that line, it doesn't matter that much. What does is on **which side** of action you're participating. Are you feeling that **your manager** is doing it to you, or **you're the one** seeing no other path forward than closely looking over the shoulder? The good news is that understanding one direction helps the other, so let's zoom in.
 
 For ease to follow: I'm going to call situations when **you** are the micromanager as "Giver" and when you're being micromanaged - as "Receiver." 
 
