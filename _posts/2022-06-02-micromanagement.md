@@ -17,7 +17,7 @@ For ease to follow: I'm going to call situations when **you** are the micromanag
 
 # Giver: High Stakes, No Room For Mistakes
 
-Let's start with probably the most frequent scenario. Tention is enormous because there's so much on the line, and you know that failure is not an option. Well, a failure is always an option, but such a turn of events would surely result in catastrophic consequences. In this case, the horizon of leaning in and double-checking every taken turn and reviewing output at much higher than usual engagement does start to sound reasonable, does it? While the alternatives are too risky, having all hands on deck makes sense. If your manager joins, let's say, an ongoing investigation of the outage, you probably also wouldn't blink and meet them with a "Stop" sign, too.
+Let's start with probably the most frequent scenario. Tension is enormous because there's so much on the line, and you know that failure is not an option. Well, a failure is always an option, but such a turn of events would surely result in catastrophic consequences. In this case, the horizon of leaning in and double-checking every taken turn and reviewing output at much higher than usual engagement does start to sound reasonable, does it? While the alternatives are too risky, having all hands on deck makes sense. If your manager joins, let's say, an ongoing investigation of the outage, you probably also wouldn't blink and meet them with a "Stop" sign, too.
 
 # Giver: Lack of Trust
 
@@ -73,7 +73,7 @@ Not sure if such a term exists, but if not, let's invent it. I believe avoiding 
 * What is the trigger or situation shifting your way of working? Both parties know _why_ this has to happen. 
 * What should happen for the things to go back to normal?
 * What is the communication and information flow contract for this period? 
-* Are there indirectly affected parties because of( this? Inform them if suitable, so authority is not undermined.
+* Are there indirectly affected parties because of this? Inform them if suitable, so authority is not undermined.
 
 This way, the period of micromanagement should be short, with clear context and goals. 
 
