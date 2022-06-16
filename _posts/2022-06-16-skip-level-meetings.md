@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How To Survive Skip-level Meetings"
-tags: [ meetings skip-level ]
+tags: [ meetings, skip-level ]
 featured_image_thumbnail: assets/images/posts/2022/skip_level_thumbnail.jpg 
 featured_image: assets/images/posts/2022/skip_level.jpg
 ---
