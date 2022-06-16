@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How To Survive Skip-level Meetings"
-tags: [  ]
+tags: [ meetings skip-level ]
 featured_image_thumbnail: assets/images/posts/2022/skip_level_thumbnail.jpg 
 featured_image: assets/images/posts/2022/skip_level.jpg
 ---
@@ -45,8 +45,8 @@ Unless you hear about some terrible misconduct (exceptional cases - make sure to
 
 # Going Deeper
 
-In the end, especially in large organizations, we all might end up having... skip-skip-level conversation. All the same thoughts outlined above still apply, just keep in mind that with such a distance, the level of abstraction is already wildly different, so just keep an eye that you give enough high-level context for the person in front of you to understand what the topic or problem is about. 
+In the end, especially in large organizations, we all might end up having... skip-skip-level conversation. All the same thoughts outlined above still apply, just keep in mind that with such a distance, the level of abstraction is already wildly different, so keep an eye that you give enough high-level context for the person in front of you to understand what the topic or problem is about. 
 
 <small>
-  Photo by [Ketut Subiyanto](https://www.pexels.com/photo/unpacked-boxes-in-middle-of-room-4246091/)
+  Photo by [Pok Rie](https://www.pexels.com/photo/aerial-shot-of-island-1750123/)
 </small>
