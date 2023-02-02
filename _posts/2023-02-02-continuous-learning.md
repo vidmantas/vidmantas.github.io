@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Continuous Learning"
-tags: [ todo ]
+tags: [ learning coaching career ]
 featured_image_thumbnail: assets/images/posts/2023/continuous-learning_thumbnail.jpg 
 featured_image: assets/images/posts/2023/continuous-learning.jpg
 ---
