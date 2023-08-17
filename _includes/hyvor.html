@@ -1,14 +1,8 @@
 {% if site.hyvor_website_id %}
 	<section id="comments-area" class="comments-area">
 		<h2 class="comments-title">Comments</h2>
-		<div id="hyvor-talk-view"></div>
-		<script type="text/javascript">
-		var HYVOR_TALK_WEBSITE = {{ site.hyvor_website_id }};
-		var HYVOR_TALK_CONFIG = {
-				url: '{{ page.url | absolute_url }}',
-				id: '{{ page.url | absolute_url }}'
-		};
-		</script>
-		<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
+		
+		<script async src="https://talk.hyvor.com/embed/embed.js" type="module"></script>
+		<hyvor-talk-comments website-id="{{ site.hyvor_website_id }}" page-id="{{ page.url | absolute_url }}"></hyvor-talk-comments>
 	</section>
 {% endif %}
