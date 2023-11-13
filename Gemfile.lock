@@ -64,6 +64,7 @@ GEM
     unicode-display_width (1.8.0)
 
 PLATFORMS
+  arm64-darwin-23
   x86_64-linux
 
 DEPENDENCIES
@@ -74,4 +75,4 @@ DEPENDENCIES
   jekyll-tagsgenerator
 
 BUNDLED WITH
-   2.2.33
+   2.4.21
