@@ -45,6 +45,8 @@ If your organization is already facing these issues, make sure your communicatio
 
 Running your own software is similar to owning a car. If you just park it for years, gasoline will break up, brakes will rust, the battery will die, and all kinds of other pleasantries will make the car unusable without more or less serious upkeep investment before it can be driven again.
 
+However with the software, more accurate it would be to compare with a car that you keep using, but pay absolutely no attention to any maintenance needs whatsoever. So no oil changes, no tire changes, no brakes maintenance. For some time it's going to be okay, but it's just a matter of time until some accident happens.
+
 <small>
   Photo by gina [christoforou](https://www.pexels.com/photo/brown-utility-truck-on-grass-1051276/)
 </small>
