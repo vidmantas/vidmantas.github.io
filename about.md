@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-featured_image: /assets/images/pages/about.jpg
+featured_image: /assets/images/pages/about2024.jpg
 ---
 
 Hello, I am Vidmantas Kabošis - an Engineering Director from Vilnius, Lithuania. After graduating from Vilnius University with a degree in Software Engineering, I worked in several companies as an individual contributor building B2C and B2B products. Ruby has been the language I spent most of my professional developer career.
