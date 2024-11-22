@@ -64,5 +64,5 @@ If emotions overwhelm the discussion, it’s better to reschedule than push thro
 _The remaining principles for managing difficult conversations will be shared soon!_
 
 <small>
-  Photo by gina [christoforou](https://www.pexels.com/photo/brown-utility-truck-on-grass-1051276/)
+  Photo by [Matt Hardy](https://www.pexels.com/photo/monochrome-photo-of-waves-1870259/)
 </small>
