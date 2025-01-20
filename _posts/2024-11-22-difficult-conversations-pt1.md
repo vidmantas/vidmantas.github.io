@@ -60,8 +60,7 @@ You’re not immune, either. Even with preparation, the real moment can hit hard
 
 If emotions overwhelm the discussion, it’s better to reschedule than push through without clarity.
 
-
-_The remaining principles for managing difficult conversations will be shared soon!_
+[Continue to the 2nd part.](/difficult-conversations-pt2)
 
 <small>
   Photo by [Matt Hardy](https://www.pexels.com/photo/monochrome-photo-of-waves-1870259/)
