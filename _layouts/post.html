@@ -46,8 +46,7 @@ post_class: post-template
                     <p class="author-description">{{ site.author.bio }}</p>
                 </div>
             </div>
-            {% include disqus.html %}
-		    {% include hyvor.html %}
+            {% include comments.html %}
         </article>
         {% if site.mailchimp_url %}
         {% include newsletter-box.html %}
