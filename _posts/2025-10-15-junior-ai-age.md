@@ -19,7 +19,7 @@ Now, at the moment of writing this, a well-versed junior — with the right help
 
 Many senior+ engineers I talk with daily describe AI tools like Codex, Claude, or Cursor as being on the level of a junior engineer. "It's like working with a junior — if you prompt it precisely enough, it will do a decent job, but for anything more complex I need to jump in myself."
 
-This sentiment is so widespread that it’s often _accepted_ as fact, with many pitfalls overlooked. AI can't talk to users or customers directly, won't gain knowledge over time, won't truly learn — and there are many other "won'ts." Still, this perception has become another ingredient in our current reality.
+This sentiment is so widespread that it's often _accepted_ as fact, with many pitfalls overlooked. AI can't talk to users or customers directly, won't gain knowledge over time, won't truly learn — and there are many other "won'ts." Still, this perception has become another ingredient in our current reality.
 
 ### Tough Market
 
@@ -29,9 +29,9 @@ For people with experience, this might sound like good news - less new blood ent
 
 ### Effect on the Industry
 
-For any industry to stay healthy, it needs fresh minds bringing that youthful ignorance of how things "used to be done." We, the old dogs, often don’t realize how easily we fall into doing the same things repeatedly out of familiarity. We need people who challenge, reshape, and sometimes reinvent.
+For any industry to stay healthy, it needs fresh minds bringing that youthful ignorance of how things "used to be done." We, the old dogs, often don't realize how easily we fall into doing the same things repeatedly out of familiarity. We need people who challenge, reshape, and sometimes reinvent.
 
-You don’t need me to explain what that means for an industry that moves as fast as IT. Yes, juniors make the same mistakes we all did early in our careers ("let's rewrite this legacy platform from scratch," anyone?). And yes, they don’t yet understand all the reasons behind how things are built. But I'd rather go through that together for the sake of a fresh perspective and renewed energy.
+You don't need me to explain what that means for an industry that moves as fast as IT. Yes, juniors make the same mistakes we all did early in our careers ("let's rewrite this legacy platform from scratch," anyone?). And yes, they don't yet understand all the reasons behind how things are built. But I'd rather go through that together for the sake of a fresh perspective and renewed energy.
 
 ### New (Brave) World
 
