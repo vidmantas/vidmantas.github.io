@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Junior Engineers in the Age of AI"
-tags: []
+tags: [ai, career]
 featured_image_thumbnail: assets/images/posts/2025/juniors-ai_thumbnail.jpg
 featured_image: assets/images/posts/2025/juniors-ai.jpg
 ---
