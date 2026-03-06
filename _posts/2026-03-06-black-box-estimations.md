@@ -24,7 +24,7 @@ The multiplier is unknowable upfront. It could be 10x. It could be 2x. It could 
 
 This is where estimation gets into genuinely new territory. Before AI tools, the variance in execution time for a well-understood task was fairly bounded. A mid-level engineer estimating a task in their domain of expertise wouldn't be wildly off — maybe 1.5x, maybe 2x in bad cases. That's manageable.
 
-With AI tools in the mix, the variance explodes. The same task, the same engineer, on a different day with a different context window, could take 20 minutes or 3 days. And crucially, you often don't know *which* until you're already in it.
+With AI tools in the mix, the variance explodes. Virtually the same task, the same engineer, on a different day could now take 20 minutes or 3 days. And crucially, you often don't know *which* until you're already in it.
 
 Now imagine building a sprint plan, a roadmap, or a customer commitment on top of estimates with this kind of range baked in. What does a "two-day task" even mean anymore if the honest confidence interval is "somewhere between two hours and two weeks"?
 
